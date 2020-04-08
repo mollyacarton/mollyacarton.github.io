@@ -23,3 +23,14 @@ td, th {
   text-align: left;
   padding: 8px;
 }
+
+ul, li {list-style-type: none;}
+
+li.page-collection a 
+{
+ color: #C1C1C1;
+ font-family: arial;
+ font-size: 13.5px;
+ text-transform:uppercase;
+ padding: 0px 90px 0px 0px;
+}
