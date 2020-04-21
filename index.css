@@ -4,13 +4,20 @@ body {
  	auto;
   max-width:750px;
 	line-height:1.6;
-	font-size:18px;
+	font-size:16px;
 	padding:0
 	10px
 }
 
+tbody {
+  font-family: times;
+  font-size:16px;
+}
+
 h1,h2,h3{
+  color: #770000;
 	line-height:1.2
+  text-align: left
 }
 
 table {
@@ -28,9 +35,9 @@ ul, li {list-style-type: none;}
 
 li.page-collection a 
 {
- color: #C1C1C1;
+ color: #770000;
  font-family: arial;
- font-size: 13.5px;
+ font-size: 18px;
  text-transform:uppercase;
  padding: 0px 90px 0px 0px;
 }
