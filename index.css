@@ -22,7 +22,7 @@ h1,h2,h3{
 }
 
 table {
-  font-family: arial;
+  font-family: times;
   border-collapse: collapse;
   width: 100%;
 }
@@ -32,13 +32,16 @@ td, th {
   padding: 8px;
 }
 
-ul, li {list-style-type: none;}
+ul, li {
+ list-style-type: none;
+ color: #770000;
+}
 
 li.page-collection a 
 {
  color: #770000;
  font-family: arial;
  font-size: 18px;
- text-transform:uppercase;
+ /*text-transform:uppercase;*/
  padding: 0px 90px 0px 0px;
 }
